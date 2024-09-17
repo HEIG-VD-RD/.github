@@ -3,39 +3,39 @@
 Welcome to my GitHub organization, where you can find most of the projects and laboratories I completed during my studies in Embedded Systems at the [School Of Business And Engineering Vaud HEIG-VD](https://heig-vd.ch/)
 
 ## Semester 1
-[Programmation 1]()
-[Introduction à la science des données]()
-[Systèmes logiques]()
+[Programmation 1]() <br>
+[Introduction à la science des données]() <br>
+[Systèmes logiques]() <br>
 ## Semester 2
-[Architectures des ordinateurs ]()
-[Introduction à la sécurité de l'information]()
-[Algorithmes et structures de données]()
-[Programmation 2]()
-[Réseaux informatiques]()
+[Architectures des ordinateurs ]()<br>
+[Introduction à la sécurité de l'information]()<br>
+[Algorithmes et structures de données]()<br>
+[Programmation 2]()<br>
+[Réseaux informatiques]()<br>
 ## Summer project 1 
-[Projet d'informatique]()
+[Projet d'informatique]()<br>
 ## Semester 3
-[Bases de données relationnelles]()
-[Développement d'applications internet]()
-[Probabilités et statistiques]()
-[Programmation orientée objet ]()
-[Programmation concurrente]()
-[Systèmes d'exploitation]()
+[Bases de données relationnelles]()<br>
+[Développement d'applications internet]()<br>
+[Probabilités et statistiques]()<br>
+[Programmation orientée objet ]()<br>
+[Programmation concurrente]()<br>
+[Systèmes d'exploitation]()<br>
 ## Semestre 4
-[Développement de drivers]()
-[Processus de développement en ingénierie logicielle ]()
-[Programmation assembleur]()
-[Programmation temps-réel]()
-[Apprentissage par réseaux de neurones artificiels]()
-[Conception de systèmes numériques]()
+[Développement de drivers]()<br>
+[Processus de développement en ingénierie logicielle ]()<br>
+[Programmation assembleur]()<br>
+[Programmation temps-réel]()<br>
+[Apprentissage par réseaux de neurones artificiels]()<br>
+[Conception de systèmes numériques]()<br>
 ## Summer project 2
-[Projet de groupe]()
+[Projet de groupe]()<br>
 ## Semestre 5
-[Calcul numérique et accélération matérielle]()
-[Vérification des systèmes embarqués]()
-[Architecture des systèmes embarqués]()
-[Portage des systèmes d'exploitation]()
-[Digital signal processing]()
-[Transmission sans fils]()
-[Sécurité logicielle bas niveau]()
+[Calcul numérique et accélération matérielle]()<br>
+[Vérification des systèmes embarqués]()<br>
+[Architecture des systèmes embarqués]()<br>
+[Portage des systèmes d'exploitation]()<br>
+[Digital signal processing]()<br>
+[Transmission sans fils]()<br>
+[Sécurité logicielle bas niveau]()<br>
 
