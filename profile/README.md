@@ -3,39 +3,39 @@
 Welcome to my GitHub organization, where you can find most of the projects and laboratories I completed during my studies in Embedded Systems at the [School Of Business And Engineering Vaud HEIG-VD](https://heig-vd.ch/)
 
 ## Semester 1
-[Programmation 1]() <br>
-[Introduction à la science des données]() <br>
-[Systèmes logiques]() <br>
+[[PRG1] - Programmation 1]() <br>
+[[ISD] - Introduction à la science des données]() <br>
+[[SYL] - Systèmes logiques]() <br>
 ## Semester 2
-[Architectures des ordinateurs ]()<br>
-[Introduction à la sécurité de l'information]()<br>
-[Algorithmes et structures de données]()<br>
-[Programmation 2]()<br>
-[Réseaux informatiques]()<br>
+[[ARO] - Architectures des ordinateurs ]()<br>
+[[ISI] - Introduction à la sécurité de l'information]()<br>
+[[ASD] - Algorithmes et structures de données]()<br>
+[[PRG2] - Programmation 2]()<br>
+[[RXI] - Réseaux informatiques]()<br>
 ## Summer project 1 
-[Projet d'informatique]()<br>
+[[PIN] - Projet d'informatique]()<br>
 ## Semester 3
-[Bases de données relationnelles]()<br>
-[Développement d'applications internet]()<br>
-[Probabilités et statistiques]()<br>
-[Programmation orientée objet ]()<br>
-[Programmation concurrente]()<br>
-[Systèmes d'exploitation]()<br>
+[[BDR] - Bases de données relationnelles]()<br>
+[[DAI] - Développement d'applications internet]()<br>
+[[PST] - Probabilités et statistiques]()<br>
+[[POO] - Programmation orientée objet ]()<br>
+[[PCO] - Programmation concurrente]()<br>
+[[SYE] - Systèmes d'exploitation]()<br>
 ## Semestre 4
-[[DRV]Développement de drivers](https://github.com/HEIG-VD-RD/Driver)<br>
-[Processus de développement en ingénierie logicielle ]()<br>
-[Programmation assembleur]()<br>
-[Programmation temps-réel]()<br>
-[Apprentissage par réseaux de neurones artificiels]()<br>
-[Conception de systèmes numériques]()<br>
+[[DRV] - Développement de drivers](https://github.com/HEIG-VD-RD/Driver)<br>
+[[PDL] - Processus de développement en ingénierie logicielle ]()<br>
+[[ASM] - Programmation assembleur]()<br>
+[[PTR] - Programmation temps-réel]()<br>
+[[ARN] - Apprentissage par réseaux de neurones artificiels]()<br>
+[[CSN] - Conception de systèmes numériques]()<br>
 ## Summer project 2
-[Projet de groupe]()<br>
+[[PDG] - Projet de groupe]()<br>
 ## Semestre 5
-[Calcul numérique et accélération matérielle]()<br>
-[Vérification des systèmes embarqués]()<br>
-[Architecture des systèmes embarqués]()<br>
-[Portage des systèmes d'exploitation]()<br>
-[Digital signal processing]()<br>
-[Transmission sans fils]()<br>
-[Sécurité logicielle bas niveau]()<br>
+[[CNM] - Calcul numérique et accélération matérielle]()<br>
+[[VSE] - Vérification des systèmes embarqués]()<br>
+[[ARE] - Architecture des systèmes embarqués]()<br>
+[[POS] - Portage des systèmes d'exploitation]()<br>
+[[DSP] - Digital signal processing]()<br>
+[[TSF] - Transmission sans fils]()<br>
+[[SLB] - Sécurité logicielle bas niveau]()<br>
 
