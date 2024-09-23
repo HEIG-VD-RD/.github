@@ -25,7 +25,7 @@ Welcome to my GitHub organization, where you can find most of the projects and l
 [[DRV] - Développement de drivers](https://github.com/HEIG-VD-RD/Driver)<br>
 [[PDL] - Processus de développement en ingénierie logicielle ]() (a venir) <br>
 [[ASM] - Programmation assembleur]() (a venir) <br> 
-[[PTR] - Programmation temps-réel](https://github.com/HEIG-VD-RD/PTR) (a venir) <br> 
+[[PTR] - Programmation temps-réel](https://github.com/HEIG-VD-RD/PTR) <br> 
 [[ARN] - Apprentissage par réseaux de neurones artificiels]() (a venir) <br> 
 [[CSN] - Conception de systèmes numériques]() (a venir) <br> 
 ## Summer project 2
