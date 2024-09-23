@@ -3,39 +3,39 @@
 Welcome to my GitHub organization, where you can find most of the projects and laboratories I completed during my studies in Embedded Systems at the [School Of Business And Engineering Vaud HEIG-VD](https://heig-vd.ch/)
 
 ## Semester 1
-[[PRG1] - Programmation 1]() <br>
-[[ISD] - Introduction à la science des données]() <br>
-[[SYL] - Systèmes logiques]() <br>
+[[PRG1] - Programmation 1]() <br> (a venir)
+[[ISD] - Introduction à la science des données]() <br> (a venir)
+[[SYL] - Systèmes logiques]() <br> (a venir)
 ## Semester 2
-[[ARO] - Architectures des ordinateurs ]()<br>
-[[ISI] - Introduction à la sécurité de l'information]()<br>
-[[ASD] - Algorithmes et structures de données]()<br>
-[[PRG2] - Programmation 2]()<br>
-[[RXI] - Réseaux informatiques]()<br>
+[[ARO] - Architectures des ordinateurs ]()<br> (a venir)
+[[ISI] - Introduction à la sécurité de l'information]()<br> (a venir)
+[[ASD] - Algorithmes et structures de données]()<br> (a venir)
+[[PRG2] - Programmation 2]()<br> (a venir)
+[[RXI] - Réseaux informatiques]()<br> (a venir)
 ## Summer project 1 
-[[PIN] - Projet d'informatique]()<br>
+[[PIN] - Projet d'informatique]()<br> (a venir)
 ## Semester 3
-[[BDR] - Bases de données relationnelles]()<br>
-[[DAI] - Développement d'applications internet]()<br>
-[[PST] - Probabilités et statistiques]()<br>
-[[POO] - Programmation orientée objet ]()<br>
-[[PCO] - Programmation concurrente]()<br>
-[[SYE] - Systèmes d'exploitation]()<br>
+[[BDR] - Bases de données relationnelles]()<br> (a venir)
+[[DAI] - Développement d'applications internet]()<br> (a venir)
+[[PST] - Probabilités et statistiques]()<br> (a venir)
+[[POO] - Programmation orientée objet ]()<br> (a venir)
+[[PCO] - Programmation concurrente]()<br> (a venir)
+[[SYE] - Systèmes d'exploitation]()<br> (a venir)
 ## Semestre 4
 [[DRV] - Développement de drivers](https://github.com/HEIG-VD-RD/Driver)<br>
-[[PDL] - Processus de développement en ingénierie logicielle ]()<br>
-[[ASM] - Programmation assembleur]()<br>
-[[PTR] - Programmation temps-réel]()<br>
-[[ARN] - Apprentissage par réseaux de neurones artificiels]()<br>
-[[CSN] - Conception de systèmes numériques]()<br>
+[[PDL] - Processus de développement en ingénierie logicielle ]()<br> (a venir)
+[[ASM] - Programmation assembleur]()<br> (a venir)
+[[PTR] - Programmation temps-réel](https://github.com/HEIG-VD-RD/PTR)<br> 
+[[ARN] - Apprentissage par réseaux de neurones artificiels]()<br> (a venir)
+[[CSN] - Conception de systèmes numériques]()<br> (a venir)
 ## Summer project 2
-[[PDG] - Projet de groupe]()<br>
+[[PDG] - Projet de groupe](https://github.com/Plant-keeper)<br>
 ## Semestre 5
-[[CNM] - Calcul numérique et accélération matérielle]()<br>
-[[VSE] - Vérification des systèmes embarqués]()<br>
-[[ARE] - Architecture des systèmes embarqués]()<br>
-[[POS] - Portage des systèmes d'exploitation]()<br>
-[[DSP] - Digital signal processing]()<br>
-[[TSF] - Transmission sans fils]()<br>
-[[SLB] - Sécurité logicielle bas niveau]()<br>
+[[CNM] - Calcul numérique et accélération matérielle]()<br> (a venir)
+[[VSE] - Vérification des systèmes embarqués]()<br> (a venir)
+[[ARE] - Architecture des systèmes embarqués]()<br> (a venir)
+[[POS] - Portage des systèmes d'exploitation]()<br> (a venir)
+[[DSP] - Digital signal processing]()<br> (a venir)
+[[TSF] - Transmission sans fils]()<br> (a venir)
+[[SLB] - Sécurité logicielle bas niveau]()<br> (a venir)
 
