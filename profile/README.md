@@ -19,7 +19,7 @@ Welcome to my GitHub organization, where you can find most of the projects and l
 [[DAI] - Développement d'applications internet]() (a venir) <br> 
 [[PST] - Probabilités et statistiques]() (a venir) <br> 
 [[POO] - Programmation orientée objet ]() (a venir) <br>
-[[PCO] - Programmation concurrente]() (a venir) <br> 
+[[PCO] - Programmation concurrente]() <br> 
 [[SYE] - Systèmes d'exploitation]() (a venir) <br> 
 ## Semestre 4
 [[DRV] - Développement de drivers](https://github.com/HEIG-VD-RD/Driver)<br>
