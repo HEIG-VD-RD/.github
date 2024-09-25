@@ -20,7 +20,7 @@ Welcome to my GitHub organization, where you can find most of the projects and l
 [[PST] - Probabilités et statistiques]() (a venir) <br> 
 [[POO] - Programmation orientée objet ]() (a venir) <br>
 [[PCO] - Programmation concurrente](https://github.com/HEIG-VD-RD/PCO) <br> 
-[[SYE] - Systèmes d'exploitation]() (a venir) <br> 
+[SYE] - Systèmes d'exploitation
 ## Semestre 4
 [[DRV] - Développement de drivers](https://github.com/HEIG-VD-RD/Driver)<br>
 [[PDL] - Processus de développement en ingénierie logicielle ]() (a venir) <br>
