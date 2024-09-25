@@ -16,7 +16,7 @@ Welcome to my GitHub organization, where you can find most of the projects and l
 [[PIN] - Projet d'informatique]() (a venir) <br> 
 ## Semester 3
 [[BDR] - Bases de données relationnelles]() (a venir) <br> 
-[[DAI] - Développement d'applications internet]() (a venir) <br> 
+[[DAI] - Développement d'applications internet](https://github.com/HEIG-VD-RD/DAI/) <br> 
 [[PST] - Probabilités et statistiques](https://github.com/HEIG-VD-RD/PST/) <br> 
 [[POO] - Programmation orientée objet ]() (a venir) <br>
 [[PCO] - Programmation concurrente](https://github.com/HEIG-VD-RD/PCO) <br> 
