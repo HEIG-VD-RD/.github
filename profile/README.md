@@ -17,7 +17,7 @@ Welcome to my GitHub organization, where you can find most of the projects and l
 ## Semester 3
 [[BDR] - Bases de données relationnelles]() (a venir) <br> 
 [[DAI] - Développement d'applications internet]() (a venir) <br> 
-[[PST] - Probabilités et statistiques]() (a venir) <br> 
+[[PST] - Probabilités et statistiques](https://github.com/HEIG-VD-RD/PST/) <br> 
 [[POO] - Programmation orientée objet ]() (a venir) <br>
 [[PCO] - Programmation concurrente](https://github.com/HEIG-VD-RD/PCO) <br> 
 [SYE] - Systèmes d'exploitation
