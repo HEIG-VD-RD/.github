@@ -15,10 +15,10 @@ Welcome to my GitHub organization, where you can find most of the projects and l
 ## Summer project 1 
 [[PIN] - Projet d'informatique]() (a venir) <br> 
 ## Semester 3
-[[BDR] - Bases de données relationnelles]() (a venir) <br> 
+[[BDR] - Bases de données relationnelles](https://github.com/Rafou2898/LaboBDR/) <br> 
 [[DAI] - Développement d'applications internet](https://github.com/HEIG-VD-RD/DAI/) <br> 
 [[PST] - Probabilités et statistiques](https://github.com/HEIG-VD-RD/PST/) <br> 
-[[POO] - Programmation orientée objet ]() (a venir) <br>
+[[POO] - Programmation orientée objet ](https://github.com/HEIG-VD-RD/POO) <br>
 [[PCO] - Programmation concurrente](https://github.com/HEIG-VD-RD/PCO) <br> 
 [SYE] - Systèmes d'exploitation
 ## Semestre 4
