@@ -19,7 +19,7 @@ Welcome to my GitHub organization, where you can find most of the projects and l
 [[DAI] - Développement d'applications internet]() (a venir) <br> 
 [[PST] - Probabilités et statistiques]() (a venir) <br> 
 [[POO] - Programmation orientée objet ]() (a venir) <br>
-[[PCO] - Programmation concurrente]() <br> 
+[[PCO] - Programmation concurrente](https://github.com/HEIG-VD-RD/PCO) <br> 
 [[SYE] - Systèmes d'exploitation]() (a venir) <br> 
 ## Semestre 4
 [[DRV] - Développement de drivers](https://github.com/HEIG-VD-RD/Driver)<br>
@@ -31,7 +31,7 @@ Welcome to my GitHub organization, where you can find most of the projects and l
 ## Summer project 2
 [[PDG] - Projet de groupe](https://github.com/Plant-keeper)<br>
 ## Semestre 5
-[[CNM] - Calcul numérique et accélération matérielle]() (a venir) <br> (a venir)
+[[CNM] - Calcul numérique et accélération matérielle]() (a venir) <br>
 [[VSE] - Vérification des systèmes embarqués]() (a venir) <br>
 [[ARE] - Architecture des systèmes embarqués]() (a venir) <br> 
 [[POS] - Portage des systèmes d'exploitation]() (a venir) <br> 
