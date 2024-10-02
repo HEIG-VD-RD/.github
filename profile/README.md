@@ -27,7 +27,7 @@ Welcome to my GitHub organization, where you can find most of the projects and l
 [[ASM] - Programmation assembleur]() (a venir) <br> 
 [[PTR] - Programmation temps-réel](https://github.com/HEIG-VD-RD/PTR) <br> 
 [[ARN] - Apprentissage par réseaux de neurones artificiels](https://github.com/Rafou2898/ARN/) <br> 
-[[CSN] - Conception de systèmes numériques]() (a venir) <br> 
+[[CSN] - Conception de systèmes numériques](https://github.com/HEIG-VD-RD/CSN) <br> 
 ## Summer project 2
 [[PDG] - Projet de groupe](https://github.com/Plant-keeper)<br>
 ## Semestre 5
