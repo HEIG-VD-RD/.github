@@ -23,11 +23,11 @@ Welcome to my GitHub organization, where you can find most of the projects and l
 [[SYE] - Systèmes d'exploitation](https://github.com/HEIG-VD-RD/SYE)
 ## Semestre 4
 [[DRV] - Développement de drivers](https://github.com/HEIG-VD-RD/Driver)<br>
-[PDL] - Processus de développement en ingénierie logicielle <br>
 [[ASM] - Programmation assembleur](https://github.com/HEIG-VD-RD/ASM) <br> 
 [[PTR] - Programmation temps-réel](https://github.com/HEIG-VD-RD/PTR) <br> 
 [[ARN] - Apprentissage par réseaux de neurones artificiels](https://github.com/Rafou2898/ARN/) <br> 
 [[CSN] - Conception de systèmes numériques](https://github.com/HEIG-VD-RD/CSN) <br> 
+[PDL] - Processus de développement en ingénierie logicielle <br>
 ## Summer project 2
 [[PDG] - Projet de groupe](https://github.com/Plant-keeper)<br>
 ## Semestre 5
