@@ -31,11 +31,11 @@ Welcome to my GitHub organization, where you can find most of the projects and l
 ## Summer project 2
 [[PDG] - Projet de groupe](https://github.com/Plant-keeper)<br>
 ## Semestre 5
-[[CNM] - Calcul numérique et accélération matérielle]() (a venir) <br>
-[[VSE] - Vérification des systèmes embarqués]() (a venir) <br>
-[[ARE] - Architecture des systèmes embarqués]() (a venir) <br> 
+[[CNM] - Calcul numérique et accélération matérielle](https://github.com/HEIG-VD-RD/CNM) <br>
+[[VSE] - Vérification des systèmes embarqués](https://github.com/HEIG-VD-RD/VSE) <br>
+[[ARE] - Architecture des systèmes embarqués](https://github.com/HEIG-VD-RD/ARE) <br> 
 [[POS] - Portage des systèmes d'exploitation](https://github.com/HEIG-VD-RD/POS) <br> 
-[[DSP] - Digital signal processing]() (a venir) <br>
-[[TSF] - Transmission sans fils]() (a venir) <br>
-[[SLB] - Sécurité logicielle bas niveau]() (a venir) <br> 
+[[DSP] - Digital signal processing](https://github.com/HEIG-VD-RD/DSP) <br>
+[[TSF] - Transmission sans fils](https://github.com/HEIG-VD-RD/TSF) <br>
+[[SLB] - Sécurité logicielle bas niveau](https://github.com/HEIG-VD-RD/SLB) <br> 
 
