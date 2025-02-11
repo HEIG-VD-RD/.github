@@ -34,7 +34,7 @@ Welcome to my GitHub organization, where you can find most of the projects and l
 [[CNM] - Calcul numérique et accélération matérielle]() (a venir) <br>
 [[VSE] - Vérification des systèmes embarqués]() (a venir) <br>
 [[ARE] - Architecture des systèmes embarqués]() (a venir) <br> 
-[[POS] - Portage des systèmes d'exploitation]() (a venir) <br> 
+[[POS] - Portage des systèmes d'exploitation](https://github.com/HEIG-VD-RD/POS) <br> 
 [[DSP] - Digital signal processing]() (a venir) <br>
 [[TSF] - Transmission sans fils]() (a venir) <br>
 [[SLB] - Sécurité logicielle bas niveau]() (a venir) <br> 
