@@ -39,3 +39,6 @@ Welcome to my GitHub organization, where you can find most of the projects and l
 [[TSF] - Transmission sans fils](https://github.com/HEIG-VD-RD/TSF) <br>
 [[SLB] - Sécurité logicielle bas niveau](https://github.com/HEIG-VD-RD/SLB) (a venir) <br> 
 
+## Semestre 6
+
+
